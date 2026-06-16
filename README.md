@@ -1,5 +1,7 @@
 # Data-preprocessing
 
+This repo contains scripts for extraction, chunking, and organizing for building a chatbot for my local disk drive.
+
 When you’re dealing with terabytes of data, you can’t just "upload" it all into a model—it's way too much for a computer to memorize at once. Instead, we need to turn your raw storage into an AI-ready knowledge base using a method called RAG (Retrieval-Augmented Generation). It's basically giving the AI an "open-book" exam. 
 Here is how we’re going to handle your data, step-by-step:
 
